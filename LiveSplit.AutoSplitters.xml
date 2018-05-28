@@ -2,6 +2,16 @@
 <AutoSplitters>
   <AutoSplitter>
     <Games>
+      <Game>I Wanna Be The Ocean Princess</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/hkranid/IWBTOP-Autosplitter/master/IWBTOP.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Any% Autosplits for IWBTG fangame, I Wanna Be the Ocean Princess. Based on Wolfiexe's splits.</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
       <Game>Sphinx and the Cursed Mummy</Game>
       <Game>Sphinx and the Cursed Mummy (PC)</Game>
     </Games>
